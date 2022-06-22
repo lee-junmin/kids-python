@@ -2,7 +2,7 @@ import time
 import turtle
 import random
 
-"""
+
 player1 = input("Player 1 Name:")
 print(player1 +", you are BLUE")
 
@@ -18,7 +18,7 @@ time.sleep(0.5)
 print(".")
 time.sleep(0.5)
 print("GO")
-"""
+
 
 
 line = turtle.Turtle()

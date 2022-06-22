@@ -2,8 +2,6 @@ import turtle
 import random
 import time
 
-turtle.screensize(canvwidth=400, canvheight=300)
-
 square = turtle.Turtle()
 square.fillcolor("light blue")
 square.pencolor("light blue")
